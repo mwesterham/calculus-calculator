@@ -44,7 +44,7 @@ TVAL3</br>
 (Reference: https://www.caam.rice.edu/~zhang/reports/tr1213.pdf)</br>
 (Repository: https://www.caam.rice.edu/~optimization/L1/TVAL3/)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -52,7 +52,7 @@ NLR-CS</br>
 (Reference: https://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/NLR-CS-TIP.pdf)</br>
 (Repository: http://see.xidian.edu.cn/faculty/wsdong/Code_release/NLR_codes.rar)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -60,7 +60,7 @@ D-AMP</br>
 (Reference: https://arxiv.org/pdf/1406.4175.pdf)</br>
 (Repository: https://github.com/ricedsp/D-AMP_Toolbox)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -68,7 +68,7 @@ L1</br>
 (Reference: https://statweb.stanford.edu/~candes/software/l1magic/)</br>
 (Repository: https://statweb.stanford.edu/~candes/software/l1magic/)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -93,7 +93,7 @@ ReconNet</br>
 (Reference: https://openaccess.thecvf.com/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf)</br>
 (Repository: https://github.com/KuldeepKulkarni/ReconNet)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -101,7 +101,7 @@ LAPRAN</br>
 (Reference: https://openaccess.thecvf.com/content_ECCV_2018/papers/Kai_Xu_LAPCSRA_Deep_Laplacian_ECCV_2018_paper.pdf)</br>
 (Repository: https://github.com/PSCLab-ASU/LAPRAN-PyTorch)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -109,7 +109,7 @@ CSGM</br>
 (Reference: http://proceedings.mlr.press/v70/bora17a/bora17a.pdf)</br>
 (Repository: https://github.com/AshishBora/csgm)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
 
@@ -117,6 +117,6 @@ CSGAN</br>
 (Reference: http://proceedings.mlr.press/v97/wu19d/wu19d.pdf)</br>
 (Repository: https://github.com/deepmind/deepmind-research/tree/master/cs_gan)</br>
 * list main (we choose specific dataset and specific cs ratio) benchmark results
-* THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
+* IF THERE IS NO DIFFERENCE IN RESULTS, SKIP THESE TWO POINTS
 * compare to one in original paper
 * significant modifications that we made to the code that affect the performance
