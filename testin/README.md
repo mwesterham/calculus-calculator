@@ -5,17 +5,17 @@
 
 # Section 1: Setting up environment
 
-## Datadriven using conda:
-conda create -n CS_methods_environement python=3.7.9
-conda activate CS_methods_environement
-
-conda install pytorch==1.6.0 torchvision cudatoolkit=10.2 -c pytorch
-conda install scipy==1.5.2
-conda install opencv==3.4.2
-conda install scikit-image==0.17.2
-conda install tensorflow-gpu==1.15
+### Datadriven using conda:
+conda create -n CS_methods_environement python=3.7.9 </br>
+conda activate CS_methods_environement</br>
+</br>
+conda install pytorch==1.6.0 torchvision cudatoolkit=10.2 -c pytorch</br>
+conda install scipy==1.5.2</br>
+conda install opencv==3.4.2</br>
+conda install scikit-image==0.17.2</br>
+conda install tensorflow-gpu==1.15</br>
  
-## Matlab:
+### Matlab:
 
 
 
@@ -23,17 +23,17 @@ conda install tensorflow-gpu==1.15
 
 # Section 2: Parameters
 
-sensing: Method of sensing
-reconstruction: Method of reconstruction
-stage: Training or testing
-default: [True] use original paper's parameters [False] manually set parameters
-dataset: Dataset to be used
-input_channel: # of channels training/testing images have
-input_width: Width of training/testing images
-input_height: Height of training/testing images
-m: # of measurements/outputs of sensing matrix
-n: # of inputs to sensing matrix
-specifics: Specific parameter settings of chosen reconstruction method
+sensing: Method of sensing</br>
+reconstruction: Method of reconstruction</br>
+stage: Training or testing</br>
+default: [True] use original paper's parameters [False] manually set parameters</br>
+dataset: Dataset to be used</br>
+input_channel: # of channels training/testing images have</br>
+input_width: Width of training/testing images</br>
+input_height: Height of training/testing images</br>
+m: # of measurements/outputs of sensing matrix</br>
+n: # of inputs to sensing matrix</br>
+specifics: Specific parameter settings of chosen reconstruction method</br>
 
 
 
