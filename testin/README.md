@@ -1,11 +1,11 @@
 
-##Section 0:
+# Section 0:
 	TABLE OF BENCHMARKS
 
 
-##Section 1: Setting up environment
+# Section 1: Setting up environment
 
-#Datadriven using conda:
+## Datadriven using conda:
 conda create -n CS_methods_environement python=3.7.9
 conda activate CS_methods_environement
 
@@ -15,13 +15,13 @@ conda install opencv==3.4.2
 conda install scikit-image==0.17.2
 conda install tensorflow-gpu==1.15
  
-#Matlab:
+## Matlab:
 
 
 
 
 
-##Section 2: Parameters
+# Section 2: Parameters
 
 sensing: Method of sensing
 reconstruction: Method of reconstruction
@@ -38,8 +38,8 @@ specifics: Specific parameter settings of chosen reconstruction method
 
 
 
-##Section 3: List of Methods
-#Model-based:
+# Section 3: List of Methods
+## Model-based:
 TVAL3
 (Reference: https://www.caam.rice.edu/~zhang/reports/tr1213.pdf)
 (Repository: https://www.caam.rice.edu/~optimization/L1/TVAL3/)
@@ -74,7 +74,7 @@ L1
 	-significant modifications that we made to the code that affect the performance
 
 
-#Datadriven:
+## Datadriven:
 ISTANET 
 (Reference: https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.pdf)
 (Repository: https://github.com/jianzhangcs/ISTA-Net)
